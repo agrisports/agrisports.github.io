@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-label="Agri sports camp placeholder">
+  <rect width="900" height="560" fill="#173321"/>
+  <circle cx="126" cy="94" r="54" fill="#F7C948"/>
+  <path d="M0 330 C190 272 340 318 520 250 C690 188 792 220 900 170 L900 560 L0 560 Z" fill="#0B6B35"/>
+  <path d="M190 420 l118-190 l124 190z" fill="#FFF8E8"/>
+  <path d="M308 230 l124 190 h-72z" fill="#F28C28" opacity=".75"/>
+  <path d="M548 430 l104-164 l110 164z" fill="#F7C948"/>
+  <path d="M652 266 l110 164 h-64z" fill="#FFF8E8" opacity=".65"/>
+  <g stroke="#F28C28" stroke-width="10" stroke-linecap="round">
+    <path d="M438 474 c38-42 78-42 116 0"/>
+    <path d="M450 500 c30-30 62-30 92 0"/>
+  </g>
+</svg>

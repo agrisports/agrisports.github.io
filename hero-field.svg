@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1500" role="img" aria-label="Agri sports field placeholder">
+  <defs>
+    <linearGradient id="sky" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#BFEFFF"/>
+      <stop offset="0.62" stop-color="#F7FBFF"/>
+      <stop offset="1" stop-color="#FFF8E8"/>
+    </linearGradient>
+    <linearGradient id="field" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#6BBF45"/>
+      <stop offset="0.52" stop-color="#0B6B35"/>
+      <stop offset="1" stop-color="#8A5A34"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1500" fill="url(#sky)"/>
+  <circle cx="190" cy="170" r="86" fill="#F7C948" opacity=".88"/>
+  <path d="M0 690 C190 610 330 640 520 590 C770 526 980 590 1200 510 L1200 1500 L0 1500 Z" fill="#D9F0C5"/>
+  <path d="M0 760 C230 695 420 724 610 670 C830 597 1006 630 1200 580 L1200 1500 L0 1500 Z" fill="url(#field)"/>
+  <g opacity=".28" stroke="#FFF8E8" stroke-width="18">
+    <path d="M70 1500 C260 1160 380 920 532 682"/>
+    <path d="M285 1500 C420 1120 520 880 650 660"/>
+    <path d="M565 1500 C650 1120 720 860 790 640"/>
+    <path d="M870 1500 C880 1120 910 835 965 610"/>
+    <path d="M1120 1500 C1030 1120 1010 850 1040 610"/>
+  </g>
+  <g transform="translate(245 585)">
+    <circle cx="74" cy="44" r="34" fill="#F28C28"/>
+    <path d="M43 82 h60 l18 160 h-96 z" fill="#0B6B35"/>
+    <path d="M25 132 C-6 180 -4 222 39 246" fill="none" stroke="#F7C948" stroke-width="20" stroke-linecap="round"/>
+    <path d="M117 126 C158 154 169 199 141 243" fill="none" stroke="#F7C948" stroke-width="20" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(760 650)">
+    <circle cx="58" cy="38" r="30" fill="#F7C948"/>
+    <path d="M30 76 h58 l16 148 h-90 z" fill="#F28C28"/>
+    <path d="M18 122 C-14 158 -9 207 38 238" fill="none" stroke="#0B6B35" stroke-width="18" stroke-linecap="round"/>
+  </g>
+  <g fill="#F7C948" opacity=".9">
+    <ellipse cx="915" cy="805" rx="36" ry="90" transform="rotate(-20 915 805)"/>
+    <ellipse cx="968" cy="815" rx="34" ry="82" transform="rotate(18 968 815)"/>
+    <ellipse cx="1018" cy="842" rx="32" ry="78" transform="rotate(-14 1018 842)"/>
+  </g>
+</svg>

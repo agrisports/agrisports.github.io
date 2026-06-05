@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-label="School program placeholder">
+  <rect width="900" height="560" fill="#DDF5FF"/>
+  <path d="M90 200 h360 v190 h-360z" fill="#FFF8E8"/>
+  <path d="M70 200 l200-120 l200 120z" fill="#F28C28"/>
+  <rect x="150" y="260" width="62" height="82" fill="#0B6B35"/>
+  <rect x="255" y="260" width="62" height="82" fill="#0B6B35"/>
+  <rect x="360" y="260" width="62" height="82" fill="#0B6B35"/>
+  <path d="M0 360 C170 302 320 344 510 286 C682 234 800 254 900 206 L900 560 L0 560 Z" fill="#6BBF45"/>
+  <path d="M0 420 C180 372 360 410 540 360 C700 316 805 340 900 294 L900 560 L0 560 Z" fill="#0B6B35"/>
+  <g transform="translate(610 252)">
+    <circle cx="54" cy="36" r="30" fill="#F7C948"/>
+    <path d="M27 72 h56 l16 140 h-90 z" fill="#FFF8E8"/>
+  </g>
+</svg>

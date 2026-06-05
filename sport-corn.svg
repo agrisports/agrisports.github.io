@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-label="Corn relay placeholder">
+  <rect width="900" height="620" fill="#DDF5FF"/>
+  <path d="M0 280 C205 220 338 270 512 212 C690 152 788 178 900 130 L900 620 L0 620 Z" fill="#6BBF45"/>
+  <path d="M0 370 C174 314 334 360 512 305 C682 254 792 282 900 232 L900 620 L0 620 Z" fill="#0B6B35"/>
+  <g opacity=".24" stroke="#FFF8E8" stroke-width="12">
+    <path d="M92 620 C200 492 276 398 360 285"/>
+    <path d="M316 620 C378 500 436 390 532 248"/>
+    <path d="M580 620 C596 490 642 374 740 210"/>
+    <path d="M828 620 C798 492 810 378 870 186"/>
+  </g>
+  <g transform="translate(162 232)">
+    <circle cx="54" cy="34" r="28" fill="#F28C28"/>
+    <path d="M27 70 h54 l14 136 h-82 z" fill="#FFF8E8"/>
+    <path d="M86 108 c72 18 122 54 150 108" fill="none" stroke="#F7C948" stroke-width="20" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(520 210)">
+    <circle cx="54" cy="34" r="28" fill="#F7C948"/>
+    <path d="M28 70 h56 l14 144 h-88 z" fill="#F28C28"/>
+    <path d="M10 122 c-30 46-18 94 34 126" fill="none" stroke="#FFF8E8" stroke-width="16" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(636 310)">
+    <ellipse cx="76" cy="96" rx="36" ry="96" fill="#F7C948" transform="rotate(-15 76 96)"/>
+    <path d="M32 93 c36 10 68 7 104-14" stroke="#0B6B35" stroke-width="12" stroke-linecap="round"/>
+    <path d="M44 128 c30 8 60 4 94-14" stroke="#0B6B35" stroke-width="10" stroke-linecap="round"/>
+  </g>
+</svg>

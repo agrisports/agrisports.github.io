@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-label="Family event placeholder">
+  <rect width="900" height="560" fill="#FFF8E8"/>
+  <path d="M0 240 C170 184 320 228 500 170 C682 112 790 136 900 88 L900 560 L0 560 Z" fill="#6BBF45"/>
+  <path d="M0 336 C180 282 330 330 510 268 C690 208 788 240 900 190 L900 560 L0 560 Z" fill="#0B6B35"/>
+  <g transform="translate(232 178)">
+    <circle cx="64" cy="48" r="36" fill="#F28C28"/>
+    <path d="M30 90 h70 l16 156 h-102 z" fill="#FFF8E8"/>
+  </g>
+  <g transform="translate(420 228)">
+    <circle cx="48" cy="34" r="28" fill="#F7C948"/>
+    <path d="M24 68 h52 l14 126 h-80 z" fill="#F28C28"/>
+  </g>
+  <g transform="translate(590 190)">
+    <circle cx="54" cy="40" r="32" fill="#F7C948"/>
+    <path d="M25 78 h58 l14 146 h-88 z" fill="#FFF8E8"/>
+  </g>
+</svg>

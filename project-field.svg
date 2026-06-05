@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 750" role="img" aria-label="Regional co-creation placeholder">
+  <rect width="1000" height="750" fill="#FFF8E8"/>
+  <circle cx="845" cy="120" r="70" fill="#F7C948"/>
+  <path d="M0 285 C180 210 350 270 535 206 C720 142 850 174 1000 104 L1000 750 L0 750 Z" fill="#DDF5FF"/>
+  <path d="M0 390 C190 326 360 372 550 310 C730 252 856 278 1000 220 L1000 750 L0 750 Z" fill="#6BBF45"/>
+  <path d="M0 486 C210 410 370 470 570 392 C740 326 860 360 1000 300 L1000 750 L0 750 Z" fill="#0B6B35"/>
+  <g opacity=".24" stroke="#FFF8E8" stroke-width="14">
+    <path d="M80 750 C210 600 300 482 410 340"/>
+    <path d="M310 750 C390 594 470 470 585 300"/>
+    <path d="M590 750 C610 590 662 455 760 258"/>
+    <path d="M880 750 C830 600 838 460 920 240"/>
+  </g>
+  <g transform="translate(150 275)">
+    <rect x="0" y="60" width="170" height="122" fill="#FFF8E8"/>
+    <path d="M-18 60 l104-70 l104 70z" fill="#F28C28"/>
+  </g>
+  <g transform="translate(620 302)">
+    <circle cx="66" cy="42" r="34" fill="#F7C948"/>
+    <path d="M36 82 h60 l18 158 h-96 z" fill="#FFF8E8"/>
+    <path d="M108 110 c46 18 78 48 96 90" fill="none" stroke="#F28C28" stroke-width="18" stroke-linecap="round"/>
+  </g>
+</svg>

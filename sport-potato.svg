@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-label="Potato planting placeholder">
+  <rect width="900" height="620" fill="#FFF8E8"/>
+  <path d="M0 195 C172 120 320 158 502 104 C690 48 790 80 900 36 L900 620 L0 620 Z" fill="#DDF5FF"/>
+  <path d="M0 330 C186 268 350 324 538 252 C704 188 804 214 900 168 L900 620 L0 620 Z" fill="#8A5A34"/>
+  <g stroke="#F7C948" stroke-width="16" opacity=".42">
+    <path d="M70 620 C170 505 244 405 320 286"/>
+    <path d="M250 620 C326 500 394 396 468 260"/>
+    <path d="M458 620 C510 500 562 386 642 232"/>
+    <path d="M690 620 C704 500 738 380 802 196"/>
+  </g>
+  <g transform="translate(170 246)">
+    <circle cx="52" cy="34" r="28" fill="#F7C948"/>
+    <path d="M23 70 h58 l18 146 h-94 z" fill="#0B6B35"/>
+    <ellipse cx="158" cy="226" rx="40" ry="23" fill="#C98A42"/>
+    <ellipse cx="220" cy="198" rx="34" ry="20" fill="#D79A52"/>
+  </g>
+  <g transform="translate(510 210)">
+    <circle cx="60" cy="36" r="28" fill="#F28C28"/>
+    <path d="M34 72 h54 l14 140 h-84 z" fill="#6BBF45"/>
+    <path d="M88 104 l96 150" stroke="#222" stroke-width="10" stroke-linecap="round"/>
+    <path d="M184 254 c28 8 56 4 86-13" fill="none" stroke="#222" stroke-width="12" stroke-linecap="round"/>
+  </g>
+  <g fill="#6BBF45">
+    <path d="M640 482 c26-46 56-48 86 0 c-31-10-58-10-86 0z"/>
+    <path d="M716 448 c20-34 48-38 72 0 c-25-8-49-8-72 0z"/>
+  </g>
+</svg>
